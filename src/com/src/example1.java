@@ -12,7 +12,8 @@ public class example1 {
 		
 		System.out.println("change here");
 		System.out.println("Bye");
-		System.out.println("from guy 1");
+		System.out.println("from guy 2");
+
 	}
 	@Test
 	public void demo2()
