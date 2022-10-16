@@ -41,4 +41,9 @@ public class example1 {
 	{
 		System.out.println("Bye");
 	}
+	@Test
+	public void demo5()
+	{
+		System.out.println("Bye");
+	}
 }
